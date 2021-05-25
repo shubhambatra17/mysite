@@ -1,0 +1,26 @@
+{
+  "name": "1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "consolidate": "^0.13.1",
+    "express": "^4.13.3",
+    "swig": "^1.4.2",
+    "html": "^0.0.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "nodejs server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://shubhambatra17@bitbucket.org/shubhambatra17/mysite.git"
+  },
+  "keywords": [
+    "server"
+  ],
+  "author": "shubham",
+  "license": "ISC"
+}
